@@ -59,7 +59,6 @@ if exists(':Bundle')
     Bundle 'joonty/vim-tork.git'
     Bundle 'rking/ag.vim'
     Bundle 'othree/html5.vim.git'
-    Bundle 'SirVer/ultisnips.git'
     Bundle 'pangloss/vim-javascript.git'
     Bundle 'mxw/vim-jsx.git'
     Bundle 'rust-lang/rust.vim.git'
@@ -435,7 +434,7 @@ set listchars=tab:>-,trail:·,eol:$
 set foldmethod=marker
 set wildmenu
 set wildmode=list:longest,full
-set mouse=a
+"set mouse=a
 set nohidden
 set shortmess+=filmnrxoOt
 set viewoptions=folds,options,cursor,unix,slash
