@@ -63,6 +63,7 @@ if exists(':Bundle')
     Bundle 'mxw/vim-jsx.git'
     Bundle 'rust-lang/rust.vim.git'
     Bundle 'StanAngeloff/php.vim.git'
+    Bundle 'vim-scripts/taglist.vim'
 end
 "}}}
 
