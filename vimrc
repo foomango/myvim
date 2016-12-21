@@ -501,9 +501,9 @@ nnoremap <C-y> 3<C-y>
 nmap <silent> <leader>s :set nolist!<CR>
 
 " PHPDoc commands
-inoremap <C-d> <ESC>:call PhpDocSingle()<CR>i
-nnoremap <C-d> :call PhpDocSingle()<CR>
-vnoremap <C-d> :call PhpDocRange()<CR>
+"inoremap <C-d> <ESC>:call PhpDocSingle()<CR>i
+"nnoremap <C-d> :call PhpDocSingle()<CR>
+"vnoremap <C-d> :call PhpDocRange()<CR>
 
 " Fugitive shortcuts
 nnoremap <Leader>c :Gcommit -a<CR>i
